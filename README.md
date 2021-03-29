@@ -10,6 +10,7 @@ On a Raspberry Pi, navigate to `/sys/bus/w1/devices/` and run `ls` to list the s
 
 The sensors' serial codes will start with `28-` followed by the serial code. 
 To use the script, simply just paste your serial codes into the array at the top of the script, like so:
+
 ![Imgur](https://i.imgur.com/s2LgnWW.png)
 
 From there, run the script and you should (hopefully) have some results :).
